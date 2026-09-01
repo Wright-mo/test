@@ -7,21 +7,21 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 
 ## Part 1 - GitHub Profile
 
-1. [Wright-Mo's GitHub Profile](https://github.com/Wright-mo)
+1. [Wright-mo's GitHub Profile](https://github.com/Wright-mo)
 
 ## Part 2 - Research
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
 | help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
+| Get-Location | pwd    | prints out the working directory        |
+| Get-ChildItem | ls    | get a list of items in directory        |
+| mkdir   | mkdir       | make a new directory   |
+| Set-Location | cd     | change directory |
+| New-Item | touch      | new file         |
+| Move-Item | mv        | move a file      |
+| Copy-Item | cp        | copy a file      |
+| Remove-Item | rm      | removes an item       |
 | notepad.exe | vim     |        |
 
 ## Part 3 - Command Line Navigation
@@ -31,7 +31,7 @@ My OS is:
 - [] Linux
 - [] Mac
 
-My Command Line Shell is: 
+My Command Line Shell is: Powershell
 
 ### Navigating My OS on the Command Line
 

@@ -1,7 +1,7 @@
 ## Lab 01
 
 - Name: Mohamed Diouf
-- Email: Diouf.6@wriht.edu
+- Email: Diouf.6@wright.edu
 
 Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Instructions.html
 
